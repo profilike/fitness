@@ -7,3 +7,7 @@ html, body {
 body{
     margin: 0;
 }
+main{
+    max-width: 1240px;
+    margin: 0 auto;
+}
